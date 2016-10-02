@@ -6,9 +6,9 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: my games
+title: my hobby
 email: blastingzone@naver.com
-description: 게임 재밌어요 게임
+description: 게임, 취미
 baseurl: "/gameBlog" # the subpath of your site, e.g. /blog
 url: "http://blastingzone.github.io" # the base hostname & protocol for your site
 github_username:  blastingzone
